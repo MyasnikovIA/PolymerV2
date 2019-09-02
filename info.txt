@@ -1,0 +1,18 @@
+bower install --save Polymer/polymer#^2.0.0 bower install --save PolymerElements/paper-input bower install --save PolymerElements/paper-button bower install --save PolymerElements/iron-form
+
+bower install jquery.layout
+bower install jqueryui
+
+
+
+bower install git://github.com/PolymerElements/paper-button
+bower install git://github.com/PolymerElements/paper-input
+bower install git://github.com/PolymerElements/paper-checkbox
+bower install git://github.com/PolymerElements/paper-dropdown-menu
+bower install git://github.com/PolymerElements/paper-item
+bower install git://github.com/PolymerElements/paper-spinner
+bower install git://github.com/PolymerElements/iron-icons
+bower install git://github.com/PolymerElements/iron-image
+bower install git://github.com/PolymerElements/paper-menu-button
+bower install git://github.com/PolymerElements/paper-header-panel
+bower install git://github.com/PolymerElements/paper-dialog
